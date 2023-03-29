@@ -23,7 +23,7 @@ The script will process all AIFF files in the input folder and save the converte
 1. Clone the repository or download the aif_to_wav.py script.
 2. Install the required libraries using pip:
 
-```bash
+
 pip install soundfile wavio
 
 ## Code Overview
