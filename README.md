@@ -8,7 +8,7 @@ A Python script to convert AIFF (Audio Interchange File Format) files to WAV for
 2. Create an output folder for the converted WAV files.
 3. Run the script with the input and output folder paths as command-line arguments:
 
-```bash
+
 python aif_to_wav.py <input_folder> <output_folder>
 The script will process all AIFF files in the input folder and save the converted WAV files in the output folder.
 
@@ -36,7 +36,7 @@ The script can be run as a standalone script or imported as a module in other Py
 
 ## License
 
-```bash
+
 With this change, the "Usage" section now appears before the "Requirements" and "Installation" sections in the README.md file.
 
 
